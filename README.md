@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, ik ben Cor MBO4-student Webdevelopment | Ervaren in HTML, CSS, JavaScript & PHP | Passie voor interactieve websites en games.</h1>
-<h3 align="center">://github.com/corstorm/portfolio)</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
